@@ -1,5 +1,5 @@
 # Portfolio
-This repository contains a description and demo of most of my game projects. Bellow you will find all the games in the order that they were developed. Each one showcases different skills that are relevant in game development. This portfolio is not exhaustive but it showcases some of my noteworthy porjects.
+This repository contains a description and video demonstration of most of my game projects. Bellow you will find all the games in the order that they were developed. Each one showcases different skills that are relevant in game development. This portfolio is not exhaustive but it showcases some of my noteworthy porjects.
 
 ## Mobile Game Development
 
@@ -26,6 +26,7 @@ This game was a pasasion project during the corona lockdown, as intership oppert
 **Frameworks**: GLM, GLFW, FMOD, BulletEngine  
 
 ### Description:
+This project was for my Advanced Games Technologies module. The game is a simple third person shooter where the player needs to defeat each regions boss. It supossed to demonstrate my ability to implment essential features, creative ideas that are unique, and an ability with 3D maths.  Some of the essential features included are: player input, camera technique, dynamic lighting strategy, mesh animation and sound effects. Additionally, A simple primitve heads up display with a functioning healthbar, timer and minimap was also implmented. The creative ideas implmented were mostly invovled in the gameplay. The game has three types of projectiles, and five pickups each serving a different purpose than the others. Futhermore, five unique enemy non player characters where created with each their own unique set of attacks and moves. The enemies use finite state machines to determine the their current action. The 3D maths was mostly applied in, physics, collision detection, camera technique, and transformations (scale, rotate, translate).
 
 <br>
 

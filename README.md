@@ -1,8 +1,11 @@
 # Portfolio
-This repository contains a description and demo of most of my game projects. Bellow you will find all the games in the order that they were developed. Each one showcases different skills that are relevant in game development.
+This repository contains a description and demo of most of my game projects. Bellow you will find all the games in the order that they were developed. Each one showcases different skills that are relevant in game development. This portfolio is not exhaustive but it showcases some of my noteworthy porjects.
 
 ## Mobile Game Development
 
+<img src="https://github.com/otazi2001/Portfolio/assets/77885492/e876485b-aa22-4157-a491-662d31c02221" width="454" height="371">
+
+<br><br>
 
 **Platform:** IOS Devices  
 **Name:** Happy Penny  

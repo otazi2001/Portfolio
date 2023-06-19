@@ -5,7 +5,7 @@ This repository contains a description of most of my game projects. The games be
 
 ## Games Architecture
 
-<img src="https://github.com/otazi2001/Portfolio/assets/77885492/35c3927c-c045-4532-a9e6-70182e9facb9" width="666" height="403">
+<img src="/images/cover4.png" width="666" height="403">
 
 <br><br>
 

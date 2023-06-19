@@ -5,7 +5,7 @@ This repository contains a description of most of my game projects. The games be
 
 ## Games Architecture
 
-<img src="/images/cover4.png" width="666" height="403">
+<img src="Images/cover3.png" width="666" height="403">
 
 <br><br>
 
@@ -21,7 +21,7 @@ This porject was assigned to me for my Computer Games Architecture module. The g
 
 ## Computer Graphics
 
-<img src="https://github.com/otazi2001/Portfolio/assets/77885492/12043297-d91b-4829-b73e-ba3b187cf34f" width="666" height="403">
+<img src="Images/cover4.png" width="666" height="403">
 
 <br><br>
 
@@ -37,7 +37,7 @@ This game was a project assigned to me for my Computer Graphics module. Its is m
 
 ## Advanced Game technologies / Gameplay development
 
-<img src="https://github.com/otazi2001/Portfolio/assets/77885492/1a773810-fcd1-4554-a0d7-a3d5dd5ce06e" width="550" height="385">
+<img src="Images/cover2.png" width="550" height="385">
 
 <br><br>
 
@@ -53,7 +53,7 @@ This project was for my Advanced Games Technologies module. The game is a simple
 
 ## Mobile Game Development
 
-<img src="https://github.com/otazi2001/Portfolio/assets/77885492/e876485b-aa22-4157-a491-662d31c02221" width="454" height="371">
+<img src="Images/cover1.png" width="454" height="371">
 
 <br><br>
 

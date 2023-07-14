@@ -1,6 +1,9 @@
 # Portfolio
 This repository contains a description of most of my game projects. The games bellow are presented from newest to the oldest. Each one showcases different skills that are relevant in game development. This portfolio is not exhaustive but it showcases some of my noteworthy porjects.
 
+
+Code samples are not provided since my professors are concerened that other student could potentially copy my work. If code samples are desired please email me.
+
 <br>
 
 ## Games Architecture

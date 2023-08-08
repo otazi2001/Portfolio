@@ -2,13 +2,14 @@
 This repository contains a description of most of my game projects. The games bellow are presented from newest to the oldest. Each one showcases different skills that are relevant in game development. This portfolio is not exhaustive but it showcases some of my noteworthy porjects.
 
 
-Code samples are not provided since my professors are concerened that other student could potentially copy my work. If code samples are desired please email me.
+Code samples are not provided on Github since github has a code search feature and my professors are concerened that other student could potentially copy my work. However I have uploaded the code to my drive with a link under each listed project.
 
 <br>
 
 ## Games Architecture
 
 <img src="Images/cover3.png" width="666" height="403">
+Video Demo: https://drive.google.com/file/d/14RZ7oZQO2OCvi-CSp_utIEaHwyGPFzjf/view?usp=drive_link
 
 <br><br>
 
@@ -19,6 +20,8 @@ Code samples are not provided since my professors are concerened that other stud
 
 ### Description:
 This porject was assigned to me for my Computer Games Architecture module. The game is a 3D top view dungeon crawler. This project focuses on the modularity of the game's elements, by employing an event driven architecture. The code also ensures the use of common design paterns (e.g. Singleton, Observer, and Factory) where appropriate. Some of the games implmented features include: data driven world construction, serialization of data (load and save mechanism), seperation of collision detection and collision response, and others. Additionally, I built a UI framework that uses custom reusable templates to allow the for the craetion on new UI to be implmented with ease.
+
+**Code:** https://drive.google.com/drive/folders/11dtWF76BDZycgIeMCsvj51KksZdpl7BD?usp=drive_link
 
 <br>
 

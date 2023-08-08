@@ -1,6 +1,5 @@
 # Portfolio
-This repository contains a description of most of my game projects. The games bellow are presented from newest to the oldest. Each one showcases different skills that are relevant in game development. This portfolio is not exhaustive but it showcases some of my noteworthy porjects.
-
+Hello, I am Othmane Tazi! This repository contains a description of most of my game projects. The games bellow are presented from newest to the oldest. Each one showcases different skills that are relevant in game development. This portfolio is not exhaustive but it showcases some of my noteworthy porjects.
 
 Code samples are not provided on Github since github has a code search feature and my professors are concerened that other student could potentially copy my work. However I have uploaded the code to my drive with a link under each listed project.
 
